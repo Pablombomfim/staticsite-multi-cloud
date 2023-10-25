@@ -1,5 +1,5 @@
 variable "bucket_name" {
-  default = "meubucketnamemuitobom"
+  default = "meubucketnamemuitobom232"
 }
 
 variable "website_endpoint" {
