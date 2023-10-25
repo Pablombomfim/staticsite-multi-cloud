@@ -18,3 +18,4 @@ provider "azurerm" {
   skip_provider_registration = true
   alias                      = "cloud"
 }
+//carlos
